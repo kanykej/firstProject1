@@ -3,3 +3,9 @@ pom
 junit
 
 git 
+
+
+
+this is the topics for interview
+coming friday
+
